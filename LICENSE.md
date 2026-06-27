@@ -29,7 +29,7 @@ Commercial use is not permitted without prior written permission.
 
 When sharing or using original material from this repository, please credit:
 
-**cloudfrequency / AVO VCM Mk III Resources**
+**cloudfrequency**
 
 Where practical, include a link to this repository.
 
